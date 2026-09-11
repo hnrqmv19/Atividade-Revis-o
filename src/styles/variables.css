@@ -1,0 +1,58 @@
+/*
+  Sistema de tokens do portfólio.
+  Paleta inspirada em diagramas técnicos e placas de circuito:
+  papel/tinta no tema claro, painel escuro com trilhas azuis no tema escuro.
+*/
+
+:root {
+  --cor-fundo: #f5f6f1;
+  --cor-fundo-alt: #eceee6;
+  --cor-superficie: #ffffff;
+  --cor-texto: #191d16;
+  --cor-texto-suave: #52584c;
+  --cor-borda: #d7dacb;
+  --cor-acento: #2f5233;
+  --cor-acento-forte: #1d3a20;
+  --cor-destaque: #b5651d;
+  --cor-sucesso: #2f5233;
+  --cor-andamento: #b5651d;
+  --cor-planejada: #6b7280;
+  --cor-foco: #1d3a20;
+
+  --fonte-display: Georgia, "Iowan Old Style", "Times New Roman", serif;
+  --fonte-corpo: -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  --fonte-mono: "SFMono-Regular", Consolas, "Liberation Mono", Menlo, monospace;
+
+  --espaco-1: 0.25rem;
+  --espaco-2: 0.5rem;
+  --espaco-3: 0.75rem;
+  --espaco-4: 1rem;
+  --espaco-5: 1.5rem;
+  --espaco-6: 2rem;
+  --espaco-7: 3rem;
+  --espaco-8: 4.5rem;
+
+  --raio-pequeno: 4px;
+  --raio-medio: 8px;
+  --sombra-cartao: 0 1px 0 rgba(25, 29, 22, 0.08);
+
+  --largura-conteudo: 72rem;
+  --largura-leitura: 42rem;
+}
+
+:root[data-tema="escuro"] {
+  --cor-fundo: #10130f;
+  --cor-fundo-alt: #171b14;
+  --cor-superficie: #1a1e17;
+  --cor-texto: #eceee6;
+  --cor-texto-suave: #a9ae9c;
+  --cor-borda: #333829;
+  --cor-acento: #7fb37f;
+  --cor-acento-forte: #a4d1a4;
+  --cor-destaque: #e0975a;
+  --cor-sucesso: #7fb37f;
+  --cor-andamento: #e0975a;
+  --cor-planejada: #8b9186;
+  --cor-foco: #a4d1a4;
+  --sombra-cartao: 0 1px 0 rgba(0, 0, 0, 0.4);
+}

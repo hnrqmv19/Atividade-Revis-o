@@ -20,7 +20,7 @@ const atividades = [
     descricao: "git init, primeiro commit, .gitignore e branch principal main.",
     tecnologia: "Git",
     etapa: "Etapa 1 — Fundamentos de HTML, CSS e Git",
-    status: "Planejada",
+    status: "Concluída",
     link: "#",
   },
   {
@@ -30,7 +30,7 @@ const atividades = [
     descricao: "header, nav, main, section e footer com hierarquia de títulos correta.",
     tecnologia: "HTML",
     etapa: "Etapa 1 — Fundamentos de HTML, CSS e Git",
-    status: "Planejada",
+    status: "Concluída",
     link: "#",
   },
   {
@@ -40,7 +40,7 @@ const atividades = [
     descricao: "Nome, curso, descrição objetiva, avatar com texto alternativo e botão de acesso.",
     tecnologia: "HTML",
     etapa: "Etapa 1 — Fundamentos de HTML, CSS e Git",
-    status: "Planejada",
+    status: "Concluída",
     link: "#",
   },
   {
@@ -50,7 +50,7 @@ const atividades = [
     descricao: "Links internos para Início, Sobre, Atividades e Contato com rolagem suave.",
     tecnologia: "HTML",
     etapa: "Etapa 1 — Fundamentos de HTML, CSS e Git",
-    status: "Planejada",
+    status: "Concluída",
     link: "#",
   },
   {
@@ -60,7 +60,7 @@ const atividades = [
     descricao: "Variáveis de cor, espaçamento, raio e sombra; tipografia e normalização básica.",
     tecnologia: "CSS",
     etapa: "Etapa 1 — Fundamentos de HTML, CSS e Git",
-    status: "Planejada",
+    status: "Concluída",
     link: "#",
   },
   {
@@ -70,7 +70,7 @@ const atividades = [
     descricao: "Estilo do cartão com número, título, descrição, tecnologia e ação, com hover e focus.",
     tecnologia: "CSS",
     etapa: "Etapa 1 — Fundamentos de HTML, CSS e Git",
-    status: "Planejada",
+    status: "Concluída",
     link: "#",
   },
   {
@@ -80,7 +80,7 @@ const atividades = [
     descricao: "Alinhamento do cabeçalho, menu ou grupo de botões com justify-content, align-items e gap.",
     tecnologia: "CSS",
     etapa: "Etapa 1 — Fundamentos de HTML, CSS e Git",
-    status: "Planejada",
+    status: "Concluída",
     link: "#",
   },
   {
@@ -90,7 +90,7 @@ const atividades = [
     descricao: "Grade responsiva com minmax e auto-fit para os 30 cartões.",
     tecnologia: "CSS",
     etapa: "Etapa 1 — Fundamentos de HTML, CSS e Git",
-    status: "Planejada",
+    status: "Concluída",
     link: "#",
   },
   {
@@ -100,7 +100,7 @@ const atividades = [
     descricao: "Media queries testadas em 360px, 768px e 1440px.",
     tecnologia: "CSS",
     etapa: "Etapa 1 — Fundamentos de HTML, CSS e Git",
-    status: "Planejada",
+    status: "Concluída",
     link: "#",
   },
   {
@@ -110,7 +110,7 @@ const atividades = [
     descricao: "Cabecalho.jsx isolado e importado em App.jsx sem duplicar estilos.",
     tecnologia: "React",
     etapa: "Etapa 2 — Componentização e React",
-    status: "Planejada",
+    status: "Concluída",
     link: "#",
   },
   {
@@ -120,7 +120,7 @@ const atividades = [
     descricao: "Rodape.jsx com nome do autor, ano calculado dinamicamente e link de retorno.",
     tecnologia: "React",
     etapa: "Etapa 2 — Componentização e React",
-    status: "Planejada",
+    status: "Concluída",
     link: "#",
   },
   {
@@ -130,7 +130,7 @@ const atividades = [
     descricao: "Componente reutilizável que recebe número, título, descrição, tecnologia e link via props.",
     tecnologia: "React",
     etapa: "Etapa 2 — Componentização e React",
-    status: "Planejada",
+    status: "Concluída",
     link: "#",
   },
   {
@@ -150,7 +150,7 @@ const atividades = [
     descricao: "Transformação do array em componentes CardAtividade com key estável.",
     tecnologia: "React",
     etapa: "Etapa 2 — Componentização e React",
-    status: "Planejada",
+    status: "Concluída",
     link: "#",
   },
   {
@@ -160,7 +160,7 @@ const atividades = [
     descricao: "Renderização condicional dos estados Planejada, Em andamento e Concluída.",
     tecnologia: "React",
     etapa: "Etapa 2 — Componentização e React",
-    status: "Planejada",
+    status: "Concluída",
     link: "#",
   },
   {
@@ -260,7 +260,7 @@ const atividades = [
     descricao: "Checagem de headings, labels, alt, foco, contraste e navegação por teclado.",
     tecnologia: "HTML",
     etapa: "Etapa 3 — Interatividade e experiência",
-    status: "Planejada",
+    status: "Concluída",
     link: "#",
   },
   {
@@ -280,7 +280,7 @@ const atividades = [
     descricao: "git status e git log revisados, commits descritivos e tag v1.0.0.",
     tecnologia: "Git",
     etapa: "Etapa 4 — Documentação, versionamento e publicação",
-    status: "Planejada",
+    status: "Concluída",
     link: "#",
   },
   {
@@ -290,7 +290,7 @@ const atividades = [
     descricao: "Repositório remoto criado, branch main e tag enviadas, README conferido.",
     tecnologia: "Git",
     etapa: "Etapa 4 — Documentação, versionamento e publicação",
-    status: "Planejada",
+    status: "Concluída",
     link: "#",
   },
   {
@@ -300,7 +300,7 @@ const atividades = [
     descricao: "Importação na Vercel, testes finais e checklist de validação publicado.",
     tecnologia: "Vercel",
     etapa: "Etapa 4 — Documentação, versionamento e publicação",
-    status: "Planejada",
+    status: "Concluída",
     link: "#",
   },
 ]

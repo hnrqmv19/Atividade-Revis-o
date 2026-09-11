@@ -5,7 +5,7 @@ export default function Rodape() {
     <footer className="rodape">
       <div className="container rodape__conteudo">
         <p>
-          © {ano} Seu Nome Aqui — Portfólio construído com React, HTML e CSS.
+          © {ano} Henrique Vieira
         </p>
         <a href="#inicio">Voltar ao início</a>
       </div>
